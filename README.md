@@ -14,6 +14,8 @@ chathub
 
 chat-academic[binary-husky/chatgpt_academic: 科研工作专用ChatGPT拓展，特别优化学术Paper润色体验，支持自定义快捷按钮，支持markdown表格显示，Tex公式双显示，代码显示功能完善，新增本地Python工程剖析功能/自我剖析功能](https://github.com/binary-husky/chatgpt_academic)
 
+[kaixindelele/ChatPaper: Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文总结+润色+审稿+审稿回复](https://github.com/kaixindelele/ChatPaper)
+
 [chathub](https://chathub.gg/)
 
 [ChatPDF](https://www.chatpdf.com/)
